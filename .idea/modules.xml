@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ListandContent.iml" filepath="$PROJECT_DIR$/ListandContent.iml" />
+      <module fileurl="file://C:\CAPACITACION\ANDROID\Android-Group-37\Android-Group-37-master\m2\c2\ListandContent\ListandContent.iml" filepath="C:\CAPACITACION\ANDROID\Android-Group-37\Android-Group-37-master\m2\c2\ListandContent\ListandContent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\CAPACITACION\ANDROID\Android-Group-37\Android-Group-37-master\m2\c2\ListandContent\app\app.iml" filepath="C:\CAPACITACION\ANDROID\Android-Group-37\Android-Group-37-master\m2\c2\ListandContent\app\app.iml" />
+    </modules>
+  </component>
+</project>
